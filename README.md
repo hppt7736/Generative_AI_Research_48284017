@@ -11,3 +11,9 @@ This repository contains all materials for the study “Using Generative AI Tool
 - /Data_and_Reports/ : data.xlsx
 - /Additional_Materials/ : description.txt
 - /docs/ : README, metadata, and project logbook
+
+## Collaboration Guidelines
+- Use meaningful commit messages.
+- Follow naming conventions: YYYYMMDD_Project_FileType_Version.ext
+- For sensitive data (e.g., transcripts, consent forms), ensure ethics compliance before sharing.
+- Always create a new branch for edits and submit a pull request for review.
